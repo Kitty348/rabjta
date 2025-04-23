@@ -11,3 +11,4 @@
 git clone https://github.com/example/wh-mgmt-system-deployment.git
 cd wh-mgmt-system-deployment
 docker-compose up
+.
